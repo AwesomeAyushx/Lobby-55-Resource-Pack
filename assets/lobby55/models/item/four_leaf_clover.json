@@ -1,0 +1,6 @@
+{
+  "parent": "item/tropical_fish",
+  "textures": {
+    "layer0": "lobby55:item/four_leaf_clover"
+  }
+}
